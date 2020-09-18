@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23794f73-afbb-4c66-b866-0c09f2119c87" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="156" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fnWfC2eC8TeIx5yI3WgufQtzpO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution_394">
+    <configuration name="Solution_150" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.stack.middle.Solution_150" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.stack.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_394" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.stack.middle.Solution_394" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.stack.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_456" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.stack.middle.Solution_456" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.stack.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.stack.middle.Solution_739" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.stack.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution_856" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.stack.middle.Solution_856" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.stack.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution_394" />
+        <item itemvalue="Application.Solution_856" />
+        <item itemvalue="Application.Solution_739" />
+        <item itemvalue="Application.Solution_150" />
+        <item itemvalue="Application.Solution_456" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23794f73-afbb-4c66-b866-0c09f2119c87" name="Default Changelist" comment="" />
+      <created>1596854437608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596854437608</updated>
+      <workItem from="1596854440641" duration="44020000" />
+      <workItem from="1597153178350" duration="5404000" />
+      <workItem from="1597326047676" duration="563000" />
+      <workItem from="1597358301878" duration="2724000" />
+      <workItem from="1597410584832" duration="8694000" />
+      <workItem from="1597474420942" duration="24558000" />
+      <workItem from="1597758086752" duration="5353000" />
+      <workItem from="1597845535517" duration="3991000" />
+      <workItem from="1598755665180" duration="16060000" />
+      <workItem from="1598881496875" duration="5618000" />
+      <workItem from="1599263949683" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596854776484">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1596854776484" />
+    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1597417501670">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="425" y="225" width="431" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1597417501670" />
+    <state width="437" height="464" key="DebuggerActiveHint" timestamp="1597419285965">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="437" height="464" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1597419285965" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1598888503968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598888503968" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1598888503968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598888503968" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1598888503968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598888503968" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1598888503968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598888503968" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1598888503968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598888503968" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1598888503968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1598888503968" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1598888503968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1598888503968" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1598888503968">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1598888503968" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1599263950161">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1599263950161" />
+    <state x="195" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598887970503">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="195" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1598887970503" />
+    <state x="321" y="73" width="638" height="534" key="find.popup" timestamp="1598769904319">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="73" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1598769904319" />
+    <state x="28" y="0" key="new project wizard" timestamp="1599264005081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1599264005081" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1597486427747">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1597486427747" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1598884252614">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1598884252614" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/stack/simple/Solution_225.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetCode$Solution_225.ic" NAME="Solution_225 Coverage Results" MODIFIED="1596950722026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.stack.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetCode$Solution_20.ic" NAME="Solution_20 Coverage Results" MODIFIED="1596898651864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.stack.*</FILTER>
+    </SUITE>
+  </component>
+</project>
