@@ -1,0 +1,32 @@
+server:
+  port: 8081
+spring:
+  profiles:
+    active: prod
+---
+server:
+  port: 8082
+spring:
+  profiles: ved
+---
+server:
+  port: 8083
+spring:
+  profiles: prod
+---
+server:
+  port: 8084
+spring:
+  profiles: test
+#person:
+#  lastName: 李四
+#  age: 18
+#  boss: false
+#  birth: 2020/09/20
+#  maps: {k1: v1,k2: v2}
+#  lists:
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: 小狗
+#    age: 2
